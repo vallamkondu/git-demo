@@ -1,2 +1,2 @@
 # git-demo
-first git
+first git repository
